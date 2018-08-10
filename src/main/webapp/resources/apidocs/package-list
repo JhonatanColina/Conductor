@@ -1,0 +1,7 @@
+br.com.conductor.conf
+br.com.conductor.controller
+br.com.conductor.model
+br.com.conductor.repository
+br.com.conductor.service
+br.com.conductor.utils
+br.com.conductor.viewresolver
